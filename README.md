@@ -56,3 +56,6 @@ python auto_translation.py
 
 ## ライセンス
 MITライセンスの下で公開されています。詳しくは[LICENSE](LICENSE)ファイルを参照してください。
+
+## 著作者
+bpm1000
