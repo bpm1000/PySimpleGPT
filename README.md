@@ -42,7 +42,7 @@ openai.api_key = "your-api-key-here"
 1. ターミナルまたはコマンドプロンプトで次のコマンドを実行します：
 
 ```bash
-python auto_translation.py
+python3 auto_translation.py
 ```
 
 2. プログラムが起動すると、以下の画面が表示されます：
