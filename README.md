@@ -16,7 +16,7 @@
 以下のコマンドでリポジトリをクローンします：
 
 ```bash
-git clone https://github.com/username/auto_translation.git
+git clone https://github.com/bpm1000/auto_translation.git
 cd auto_translation
 ```
 
